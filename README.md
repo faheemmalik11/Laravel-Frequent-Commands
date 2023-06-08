@@ -1,6 +1,6 @@
 # Laravel-Frequent-Commands
 
-* [Create a Laravel Project][#Create-a-Laravel-Project]
+* [Create a Laravel Project](#Create-a-Laravel-Project)
 * [Run the Development Server](#Run-the-Development-Server)
 * [Generate a Model](#Generate-a-Model)
 * [Generate a Migration](#Generate-a-Migration)
